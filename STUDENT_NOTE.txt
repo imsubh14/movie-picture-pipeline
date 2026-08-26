@@ -1,0 +1,21 @@
+Movie Picture Pipeline - Submission Evidence
+
+Public GitHub Repository:
+https://github.com/imsubh14/movie-picture-pipeline
+
+Frontend Application:
+http://a3820040c53cd479c8eb2a2669fac566-124510969.us-east-1.elb.amazonaws.com
+
+Backend API:
+http://a0711cb241b7345a38854b8971005d9d-1296958427.us-east-1.elb.amazonaws.com/movies
+
+GitHub Actions Verification:
+1. Frontend CI - Successful
+2. Backend CI - Successful
+3. Frontend CD - Successful
+4. Backend CD - Successful
+
+Application Verification:
+ Frontend successfully displays the Movie List.
+ Backend /movies endpoint successfully returns movie JSON data.
+ Frontend is successfully connected to the backend API.
